@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isthatGurt
+- 👋 Hi, I’m Garrett
 - 👀 I’m interested in learning every day to transition into the tech field
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a wide variety of topics
